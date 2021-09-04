@@ -1,0 +1,7 @@
+G:\Pro\BIZ\MMR NETWORKS\MMR TECH NETWORK\Live Projects\madniraza.com\Project\MadniRaza_BLL\MadniRaza_BLL\bin\Debug\MadniRaza_BLL.dll
+G:\Pro\BIZ\MMR NETWORKS\MMR TECH NETWORK\Live Projects\madniraza.com\Project\MadniRaza_BLL\MadniRaza_BLL\bin\Debug\MadniRaza_BLL.pdb
+G:\Pro\BIZ\MMR NETWORKS\MMR TECH NETWORK\Live Projects\madniraza.com\Project\MadniRaza_BLL\MadniRaza_BLL\bin\Debug\MadniRaza_DAL.dll
+G:\Pro\BIZ\MMR NETWORKS\MMR TECH NETWORK\Live Projects\madniraza.com\Project\MadniRaza_BLL\MadniRaza_BLL\bin\Debug\MadniRaza_DAL.pdb
+G:\Pro\BIZ\MMR NETWORKS\MMR TECH NETWORK\Live Projects\madniraza.com\Project\MadniRaza_BLL\MadniRaza_BLL\obj\Debug\MadniRaza_BLL.csprojResolveAssemblyReference.cache
+G:\Pro\BIZ\MMR NETWORKS\MMR TECH NETWORK\Live Projects\madniraza.com\Project\MadniRaza_BLL\MadniRaza_BLL\obj\Debug\MadniRaza_BLL.dll
+G:\Pro\BIZ\MMR NETWORKS\MMR TECH NETWORK\Live Projects\madniraza.com\Project\MadniRaza_BLL\MadniRaza_BLL\obj\Debug\MadniRaza_BLL.pdb

@@ -1,0 +1,4 @@
+G:\Pro\BIZ\MMR NETWORKS\MMR TECH NETWORK\Live Projects\madniraza.com\Project\MadniRaza_DAL\MadniRaza_DAL\bin\Debug\MadniRaza_DAL.dll
+G:\Pro\BIZ\MMR NETWORKS\MMR TECH NETWORK\Live Projects\madniraza.com\Project\MadniRaza_DAL\MadniRaza_DAL\bin\Debug\MadniRaza_DAL.pdb
+G:\Pro\BIZ\MMR NETWORKS\MMR TECH NETWORK\Live Projects\madniraza.com\Project\MadniRaza_DAL\MadniRaza_DAL\obj\Debug\MadniRaza_DAL.dll
+G:\Pro\BIZ\MMR NETWORKS\MMR TECH NETWORK\Live Projects\madniraza.com\Project\MadniRaza_DAL\MadniRaza_DAL\obj\Debug\MadniRaza_DAL.pdb
